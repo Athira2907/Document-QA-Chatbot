@@ -1,0 +1,40 @@
+Number of Chunks: 5
+
+Chunk 1:
+Introduction to Artificial Intelligence 
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that 
+are programmed to think like humans and mimic their actions. The term may also be 
+applied to any machine that exhibits traits associated with a human mind such as learning 
+and problem-solving.
+
+Chunk 2:
+Types of Artificial Intelligence  
+Narrow AI: Designed to perform a specific task such as virtual assistants, recommendation 
+systems, and facial recognition.  
+General AI: Systems that possess the ability to perform any intellectual task that a human 
+can do. This type of AI does not yet exist.
+
+Chunk 3:
+Super AI: Surpasses human intelligence and can perform tasks better than humans in all 
+aspects. This is mostly theoretical.  
+ 
+Applications of AI  
+Healthcare: Disease diagnosis, medical imaging, drug discovery.  
+Finance: Fraud detection, algorithmic trading, credit scoring.  
+Education: Personalized learning, automated grading.
+
+Chunk 4:
+Transportation: Self-driving cars, traffic prediction.  
+ 
+Machine Learning and Deep Learning  
+Machine Learning is a subset of AI that focuses on systems that learn from data. Deep 
+Learning is a subset of ML that uses neural networks with many layers.  
+ 
+Challenges in AI  
+Data privacy, algorithmic bias, computational cost, ethical concerns.
+
+Chunk 5:
+Conclusion  
+Artificial Intelligence is transforming industries and will continue to shape the future of 
+technology and society.
+
